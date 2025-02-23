@@ -68,3 +68,45 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+# 🍽️ Recipe Sharing Platform (Frontend)
+
+This is the frontend of a **Recipe Sharing Platform**, built using **React.js**. It allows users to browse various recipes, view ingredients and step-by-step cooking instructions, and enjoy a visually appealing UI.
+
+---
+
+## 📌 Features
+
+✅ **Home Page with Banner**  
+- A beautiful **banner image (ban.jpg)** displayed at the top.  
+- Responsive design with a food-based theme.  
+
+✅ **Recipe Listing**  
+- Recipes displayed in a **card-based layout** with images, descriptions, and steps.  
+- Each recipe includes:  
+  - Dish Name  
+  - Image  
+  - Short Description  
+  - Step-by-Step Cooking Instructions  
+
+✅ **Styling & Design**  
+- **Bootstrap Grid Layout** for responsiveness.  
+- **Hover Effects** on recipe cards.  
+- **Background & Colors** for an aesthetically pleasing UI.  
+
+---
+
+## 🛠️ Tech Stack
+
+- **React.js** (Frontend Framework)  
+- **Bootstrap** (Styling & Responsive Grid System)  
+- **Unsplash API** (For Placeholder Recipe Images)  
+- **Custom CSS** (For additional styling)  
+
+---
+
+## 📂 Project Structure
+
+
