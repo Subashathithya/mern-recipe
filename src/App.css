@@ -1,0 +1,108 @@
+.bg-gradient {
+  background: linear-gradient(135deg, #667eea, #764ba2);
+}
+
+.login-box {
+  background: #fff;
+  width: 350px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-control {
+  border-radius: 20px;
+}
+
+.btn-primary {
+  background: #667eea;
+  border: none;
+  border-radius: 20px;
+}
+
+.btn-primary:hover {
+  background: #764ba2;
+}
+.bg-gradient {
+  background: linear-gradient(135deg, #ff9a9e, #fad0c4);
+}
+
+.register-box {
+  background: #fff;
+  width: 400px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+.form-control {
+  border-radius: 20px;
+}
+
+.btn-primary {
+  background: #ff758c;
+  border: none;
+  border-radius: 20px;
+}
+
+.btn-primary:hover {
+  background: #ff5858;
+}
+.recipe-card {
+  transition: transform 0.3s ease-in-out;
+}
+
+.recipe-card:hover {
+  transform: scale(1.05);
+  box-shadow: 0px 10px 15px rgba(0, 0, 0, 0.2);
+}
+.home-container {
+  background-color: #f8f9fa;
+  padding-bottom: 20px;
+}
+
+.banner-img {
+  max-height: 500px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.recipe-card {
+  transition: transform 0.3s ease-in-out;
+  border-radius: 10px;
+}
+
+.recipe-card:hover {
+  transform: scale(1.05);
+}
+
+.card-img-top {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  height: 200px;
+  object-fit: cover;
+}
+.home-container {
+  background-color: #f8f9fa;
+  padding-bottom: 20px;
+}
+
+.banner-img {
+  max-height: 500px;
+  object-fit: cover;
+  border-radius: 10px;
+}
+
+.recipe-card {
+  transition: transform 0.3s ease-in-out;
+  border-radius: 10px;
+  overflow: hidden;
+}
+
+.recipe-card:hover {
+  transform: scale(1.05);
+}
+
+.card-img-top {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  height: 200px;
+  object-fit: cover;
+}
+
